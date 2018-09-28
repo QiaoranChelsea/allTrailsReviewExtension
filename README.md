@@ -1,3 +1,4 @@
 # allTrailsReviewExtension
 A Google chrome extension which overlay the review from AllTrails.com to Google Map 
-:) Still working on it
+
+:blush: Still working on it
